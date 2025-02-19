@@ -47,4 +47,4 @@ Your privacy is our priority. All transaction processing happens in your browser
 
 ## Contributing
 
-Feel free to open issues and pull requests!
+Feel free to open issues/Pull requests or simply provide any feedback to venmowrapped@gmail.com!
