@@ -14,7 +14,6 @@ Your year in payments, unwrapped. A beautiful, insightful summary of your Venmo 
 
 - Frontend: Next.js 13, TypeScript, Tailwind CSS
 - Data Processing: Python
-- Storage: Redis (optional)
 
 ## Setup
 
