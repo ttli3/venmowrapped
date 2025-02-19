@@ -12,8 +12,7 @@ Your year in payments, unwrapped. A beautiful, insightful summary of your Venmo 
 
 ## Tech Stack
 
-- Frontend: Next.js 13, TypeScript, Tailwind CSS
-- Data Processing: Python
+Next.js 13, TypeScript, Tailwind CSS
 
 ## Setup
 
