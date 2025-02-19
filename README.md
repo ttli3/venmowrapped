@@ -14,7 +14,7 @@ Your year in payments, unwrapped. A beautiful, insightful summary of your Venmo 
 
 Next.js 13, TypeScript, Tailwind CSS
 
-## Setup
+## Self-Host Setup
 
 1. Clone the repository:
 ```bash
