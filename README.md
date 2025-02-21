@@ -43,7 +43,7 @@ Open [http://localhost:3000](http://localhost:3000)
 
 ## Privacy
 
-Your privacy is our priority. All transaction processing happens in your browser. No transaction data is stored on our servers.
+All transaction processing happens in your browser. No transaction data is stored on servers or streamed anywhere outside of your setup.
 
 ## Contributing
 
