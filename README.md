@@ -37,7 +37,7 @@ Open [http://localhost:3000](http://localhost:3000)
 ## How to Use
 
 1. Download your Venmo transaction history (CSV) from Venmo.com
-   [https://id.venmo.com/signin?country.x=US&locale.x=en&ctxId=AAHWOMeoSzmlyeyCfLGFjHN5qBw0bDAPnCs8KzBKLvKYJHSF21whFWY4DAA4cw1i6p4fz_y8w7jbX7nVpKUzWD8=]
+   [[https://id.venmo.com/signin?country.x=US&locale.x=en&ctxId=AAHWOMeoSzmlyeyCfLGFjHN5qBw0bDAPnCs8KzBKLvKYJHSF21whFWY4DAA4cw1i6p4fz_y8w7jbX7nVpKUzWD8=](https://account.venmo.com/api/statement/download?startDate=2024-01-01&endDate=2024-12-31&csv=true)]
    Use this customized link to download full-year data (Venmo only allows for 1 month download at once)
 3. Visit Venmo Wrapped and upload your CSV
 4. View your personalized insights and stories
